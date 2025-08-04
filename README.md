@@ -6,7 +6,7 @@
 - [Tech Stack](#Tech-Stack)
 - [Highlights](#Highlights)
 - [Walkthrough of Visuals with Insights](#WalkthroughofVisualswithInsights)
-- [Business Impact & Insights](#Business-Impact-&-Insights)
+- [Business Impact & Insights](#Business-Impact-and-Insights)
 - [Dashboard Demo:](#Dashboard-Demo)
 
 ## Project Overview
@@ -91,7 +91,7 @@ To develop a visually intuitive and actionable dashboard that:
   - Highest churn observed among customers **without backup, security, or device protection**  having services **Internet Service, Phone Service, Unlimited Data and Paperless Billing**
   - Services like **Premium Support**, **Online Security**, and **Streaming TV** strongly correlated with lower churn <br> <br>
 
-## Business Impact & Insights
+## Business Impact and Insights
 
  To reduce customer churn, the business should focus on converting month-to-month contract users into long-term plans by offering discounts and added benefits. Encouraging digital payment methods like credit cards or UPI through incentives can also help retain customers, as mailed checks and bank withdrawals show higher churn. Since many customers leave due to better competitor offers and dissatisfaction, it's essential to introduce competitive pricing bundles, improve support quality through training, and offer loyalty rewards. Special attention should be given to high-risk segments, new customers and those over 50 by providing onboarding support and simplified services. Lastly, promoting value-added service bundles such as security, backup, and premium support can increase stickiness and reduce churn among service-heavy users.
 
