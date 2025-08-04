@@ -5,8 +5,8 @@
 - [Data Set](#Data-Set)
 - [Tech Stack](#Tech-Stack)
 - [Highlights](#Highlights)
-- [Walkthrough of Visuals with Insights](#WalkthroughofVisualswithInsights)
-- [Business Impact & Insights](#Business-Impact-and-Insights)
+- [Walkthrough Visuals with Insights](#Walkthrough-Visuals-with-Insights)
+- [Business Impact and Insights](#Business-Impact-and-Insights)
 - [Dashboard Demo:](#Dashboard-Demo)
 
 ## Project Overview
@@ -57,7 +57,7 @@ To develop a visually intuitive and actionable dashboard that:
 - Enables decision-makers to design personalized retention interventions  
 - Tracks churn distribution by product, payment method, and contract  
 
-## Walkthrough of Visuals with Insights
+## Walkthrough Visuals with Insights
 
 - **Top KPIs:**  
   - Total Customers: 3,195  
