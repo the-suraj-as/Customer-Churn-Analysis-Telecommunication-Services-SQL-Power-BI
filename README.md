@@ -55,7 +55,7 @@ To develop a visually intuitive and actionable dashboard that:
   - Total Customers: 3,195  
   - New Joiners: 200  
   - Total Churn: 849  
-  - Churn Rate: **26.57%** (It is concerning)
+  - Churn Rate: **26.57%** (It is concerning) 
 
 - **Churn by Gender:**  
   - Slightly higher churn observed in **male customers (27.01%)** vs. females (25.85%)
