@@ -3,9 +3,9 @@
 ## Table of content
 - [Project Overview](#Project-Overview)
 - [Data Set](#Data-Set)
-- [Tech Stack](#Tech=Stack)
+- [Tech Stack](#Tech-Stack)
 - [Highlights](#Highlights)
-- [Walkthrough of Visuals with Insights](#Walkthrough-of-Visuals-with-Insights)
+- [Walkthrough of Visuals with Insights](#WalkthroughofVisualswithInsights)
 - [Business Impact & Insights](#Business-Impact-&-Insights)
 - [Dashboard Demo:](#Dashboard-Demo)
 
