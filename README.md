@@ -81,15 +81,16 @@ To develop a visually intuitive and actionable dashboard that:
 
 - **Service-Wise Churn Table:**  
   - Highest churn observed among customers **without backup, security, or device protection**  having services **Internet Service, Phone Service, Unlimited Data and Paperless Billing**
-  - Services like **Premium Support**, **Online Security**, and **Streaming TV** strongly correlated with lower churn
+  - Services like **Premium Support**, **Online Security**, and **Streaming TV** strongly correlated with lower churn <br> <br>
 
-### • Business Impact & Insights
+## Business Impact & Insights
 
  To reduce customer churn, the business should focus on converting month-to-month contract users into long-term plans by offering discounts and added benefits. Encouraging digital payment methods like credit cards or UPI through incentives can also help retain customers, as mailed checks and bank withdrawals show higher churn. Since many customers leave due to better competitor offers and dissatisfaction, it's essential to introduce competitive pricing bundles, improve support quality through training, and offer loyalty rewards. Special attention should be given to high-risk segments, new customers and those over 50 by providing onboarding support and simplified services. Lastly, promoting value-added service bundles such as security, backup, and premium support can increase stickiness and reduce churn among service-heavy users.
 
 
 ### Dashboard Demo:
-<img width="1456" height="846" alt="PNG-Customer-Churn-Analysis" src="[https://github.com/user-attachments/assets/0c6050d3-645e-49d7-a06b-4f678c14707c](https://github.com/the-suraj-as/Customer-Churn-Analysis-Telecommunication--Services-SQL-Power-BI/blob/main/PNG-Customer-Churn-Analysis.png)" />
+<img width="1456" height="846" alt="PNG-Customer-Churn-Analysis" src="https://github.com/user-attachments/assets/12b8eddf-495f-4099-bd9f-3cecfb228dfc" />
+
 
 
 
