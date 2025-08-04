@@ -22,17 +22,17 @@ The Customer Churn Analysis Dashboard provides deep insights into customer attri
 ## Tech Stack
 **The dashboard was built using the following tools and technologies:**
 
-- SQL – Used to prepare supporting data tables from main data table
+- SQL - Used to prepare supporting data tables from main data table
 
-- Power Query – Used for data cleaning and transformation before visualization
+- Power Query - Used for data cleaning and transformation before visualization
 
-- DAX – Used to developed custom KPIs and dynamic measures for churn rates and segmentation
+- DAX - Used to developed custom KPIs and dynamic measures for churn rates and segmentation
 
-- Power BI Desktop – Primary platform for data visualization and report creation
+- Power BI Desktop - Primary platform for data visualization and report creation
 
-- Data Modeling – Created relationships between customer attributes, service usage, and churn indicators for cross-filtering and aggregation
+- Data Modeling - Created relationships between customer attributes, service usage, and churn indicators for cross-filtering and aggregation
 
-- File Format – .pbix (Power BI) and .png for image previews <br> <br>
+- File Format - .pbix (Power BI) and .png for image previews <br> <br>
 
 ## Highlights
 
