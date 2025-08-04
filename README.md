@@ -1,13 +1,13 @@
 # Customer Churn Analysis of Telecommunication Services data using SQL and PowerBI
 
 ## Table of content
-- [Project Overview](## Project Overview)
-- [Data Set](## Data Set)
-- [Tech Stack](## Tech Stack)
-- [Highlights](## Highlights)
-- [Walkthrough of Visuals with Insights](## Walkthrough of Visuals with Insights)
-- [Business Impact & Insights](## Business Impact & Insights)
-- [Dashboard Demo:](### Dashboard Demo) <br> <br>
+- [Project Overview](##Project-Overview)
+- [Data Set](##Data-Set)
+- [Tech Stack](##Tech=Stack)
+- [Highlights](##Highlights)
+- [Walkthrough of Visuals with Insights](##Walkthrough-of-Visuals-with-Insights)
+- [Business Impact & Insights](##Business-Impact-&-Insights)
+- [Dashboard Demo:](###Dashboard-Demo) <br> <br>
 
 ## Project Overview
 The Customer Churn Analysis Dashboard provides deep insights into customer attrition patterns by visualizing demographics, service usage, contracts, reasons  and payment behavior. Designed to help the user to  identify high-risk segments and improve proactive retention strategies. <br> <br>
