@@ -1,5 +1,13 @@
 # Customer Churn Analysis of Telecommunication Services data using SQL and PowerBI
 
+## Table of content
+- [Project Overview](## Project Overview)
+- [Data Set](## Data Set)
+- [Tech Stack](## Tech Stack)
+- [Highlights](## Highlights)
+- [Walkthrough of Visuals with Insights](## Walkthrough of Visuals with Insights)
+- [Business Impact & Insights](## Business Impact & Insights)
+- [Dashboard Demo:](### Dashboard Demo) <br> <br>
 
 ## Project Overview
 The Customer Churn Analysis Dashboard provides deep insights into customer attrition patterns by visualizing demographics, service usage, contracts, reasons  and payment behavior. Designed to help the user to  identify high-risk segments and improve proactive retention strategies. <br> <br>
@@ -49,7 +57,7 @@ To develop a visually intuitive and actionable dashboard that:
 - Enables decision-makers to design personalized retention interventions  
 - Tracks churn distribution by product, payment method, and contract  
 
-### • Walkthrough of Visuals with Insights
+## Walkthrough of Visuals with Insights
 
 - **Top KPIs:**  
   - Total Customers: 3,195  
@@ -88,7 +96,7 @@ To develop a visually intuitive and actionable dashboard that:
  To reduce customer churn, the business should focus on converting month-to-month contract users into long-term plans by offering discounts and added benefits. Encouraging digital payment methods like credit cards or UPI through incentives can also help retain customers, as mailed checks and bank withdrawals show higher churn. Since many customers leave due to better competitor offers and dissatisfaction, it's essential to introduce competitive pricing bundles, improve support quality through training, and offer loyalty rewards. Special attention should be given to high-risk segments, new customers and those over 50 by providing onboarding support and simplified services. Lastly, promoting value-added service bundles such as security, backup, and premium support can increase stickiness and reduce churn among service-heavy users.
 
 
-### Dashboard Demo:
+### Dashboard Demo
 <img width="1456" height="846" alt="PNG-Customer-Churn-Analysis" src="https://github.com/user-attachments/assets/12b8eddf-495f-4099-bd9f-3cecfb228dfc" />
 
 
