@@ -89,5 +89,5 @@ To develop a visually intuitive and actionable dashboard that:
 
 
 ### Dashboard Demo:
-PNG-Customer-Churn-Analysis.png
+[PNG-Customer-Churn-Analysis.png](https://github.com/the-suraj-as/Customer-Churn-Analysis-Telecommunication--Services-SQL-Power-BI/blob/main/PNG-Customer-Churn-Analysis.png)
 
