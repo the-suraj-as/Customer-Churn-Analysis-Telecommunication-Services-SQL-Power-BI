@@ -6,8 +6,8 @@
 - [Tech Stack](#Tech-Stack)
 - [Highlights](#Highlights)
 - [Walkthrough Visuals with Insights](#Walkthrough-Visuals-with-Insights)
-- [Business Impact and Insights](#Business-Impact-and-Insights)
-- [Dashboard Demo](#Dashboard-Demo)
+- [Business Insights](#Business-Insights)
+- [Dashboard Preview](#Dashboard-Preview)
 
 ## Project Overview
 The Customer Churn Analysis Dashboard provides deep insights into customer attrition patterns by visualizing demographics, service usage, contracts, reasons  and payment behavior. Designed to help the user to  identify high-risk segments and improve proactive retention strategies. <br> <br>
@@ -91,12 +91,12 @@ To develop a visually intuitive and actionable dashboard that:
   - Highest churn observed among customers **without backup, security, or device protection**  having services **Internet Service, Phone Service, Unlimited Data and Paperless Billing**
   - Services like **Premium Support**, **Online Security**, and **Streaming TV** strongly correlated with lower churn <br> <br>
 
-## Business Impact and Insights
+## Business Insights
 
  To reduce customer churn, the business should focus on converting month-to-month contract users into long-term plans by offering discounts and added benefits. Encouraging digital payment methods like credit cards or UPI through incentives can also help retain customers, as mailed checks and bank withdrawals show higher churn. Since many customers leave due to better competitor offers and dissatisfaction, it's essential to introduce competitive pricing bundles, improve support quality through training, and offer loyalty rewards. Special attention should be given to high-risk segments, new customers and those over 50 by providing onboarding support and simplified services. Lastly, promoting value-added service bundles such as security, backup, and premium support can increase stickiness and reduce churn among service-heavy users.
 
 
-### Dashboard Demo
+### Dashboard Preview
 <img width="1456" height="846" alt="PNG-Customer-Churn-Analysis" src="https://github.com/user-attachments/assets/12b8eddf-495f-4099-bd9f-3cecfb228dfc" />
 
 
